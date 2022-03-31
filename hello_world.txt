@@ -1,1 +1,5 @@
 <h1>flows with colours</h1>
+<main>
+<p> flows should be a sign of all kinds of feelings and i emotions, together the can speak a laguage we can but in a spicail way</p>
+
+</main>
